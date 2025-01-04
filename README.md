@@ -4,8 +4,8 @@ This project simulates an Automated Teller Machine (ATM). Users can perform basi
 
 Key Features:
 
-User authentication
-Account management
-Transaction history
-Error handling
-User-friendly interface
+User authentication,
+Account management,
+Transaction history,
+Error handling,
+User-friendly interface.
