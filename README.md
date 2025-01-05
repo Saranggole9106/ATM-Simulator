@@ -1,6 +1,5 @@
 ATM Simulator
 
-This project simulates an Automated Teller Machine (ATM). Users can perform basic banking operations like checking balance, withdrawing, depositing, and changing their PIN.
 
 Key Features:
 
